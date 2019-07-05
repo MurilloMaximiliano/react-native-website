@@ -1,6 +1,6 @@
 ---
-id: getting-started
-title: Getting Started
+id: Començando
+title: Começando
 ---
 
 <style>
